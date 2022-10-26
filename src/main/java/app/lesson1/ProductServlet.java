@@ -16,7 +16,7 @@ public class ProductServlet extends HttpServlet {
         resp.setContentType("text/html;charset=utf-8");
         resp.getWriter().printf("<html><body>");
         for (int i = 0; i < 10; i++) {
-            Product product = new Product(i, i, cost + (int) (Math.random() * 100));
+            Product product = new Product(i, "Product " + i, cost + (int) (Math.random() * 100));
             resp.getWriter().printf("<h1>Product %s cost = %s </h1>\n", product.title, product.cost);
         }
         resp.getWriter().printf("</body></html>");

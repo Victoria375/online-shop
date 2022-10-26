@@ -9,5 +9,8 @@
         <module name="online-store" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="start-spring" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>

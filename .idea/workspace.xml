@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3db89f82-93aa-4fa3-95cb-49a9bb665cf7" name="Changes" comment="settings">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/lesson1/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/lesson1/ProductServlet.java" afterDir="false" />
+    <list default="true" id="3db89f82-93aa-4fa3-95cb-49a9bb665cf7" name="Changes" comment="product_servlet">
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/lesson1/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/lesson1/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/lesson1/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/lesson1/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/lesson1/ProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/lesson1/ProductServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +78,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Store" />
+        <item itemvalue="Application.Store" />
+        <item itemvalue="Application.Store" />
         <item itemvalue="Application.Store" />
       </list>
     </recent_temporary>
