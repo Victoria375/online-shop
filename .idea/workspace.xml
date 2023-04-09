@@ -4,16 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3db89f82-93aa-4fa3-95cb-49a9bb665cf7" name="Changes" comment="product_servlet">
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/lesson1/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/lesson1/ProductRepository.java" afterDir="false" />
+    <list default="true" id="3db89f82-93aa-4fa3-95cb-49a9bb665cf7" name="Changes" comment="lesson 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/ServletHello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/lesson1/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/lesson1/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/lesson1/ProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/lesson1/ProductServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/lesson1/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/lesson1/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/lesson1/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/lesson1/ProductServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/lesson1/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/lesson1/ProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/online-store.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/online-store/WEB-INF/classes/app/lesson1/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/online-store/WEB-INF/classes/app/lesson1/ProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/online-store/WEB-INF/lib/logback-classic-1.4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/online-store/WEB-INF/lib/logback-core-1.4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/online-store/WEB-INF/lib/slf4j-api-2.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/online-store/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/online-store/index.jsp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +61,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-context-demo" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Виктория/IdeaProjects/hello/src/main/java/app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "5d41402abc4b2a76b9719d911017c592",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Виктория\IdeaProjects\hello\src\main\java\app" />
       <recent name="C:\Users\Виктория\IdeaProjects\online-store\.idea" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="app" />
     </key>
   </component>
   <component name="RunManager">
@@ -93,6 +115,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666372324642</updated>
+      <workItem from="1680951029190" duration="2352000" />
+      <workItem from="1680981151196" duration="239000" />
+      <workItem from="1680981406399" duration="84000" />
+      <workItem from="1680981495614" duration="3543000" />
+      <workItem from="1681033080254" duration="665000" />
+      <workItem from="1681033767330" duration="10000" />
+      <workItem from="1681033870658" duration="1349000" />
+      <workItem from="1681035281250" duration="832000" />
     </task>
     <task id="LOCAL-00001" summary="settings">
       <created>1666378055785</created>
@@ -101,8 +131,18 @@
       <option name="project" value="LOCAL" />
       <updated>1666378055785</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson 2">
+      <created>1666808418533</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666808418533</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -117,6 +157,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="settings" />
+    <MESSAGE value="lesson 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 2" />
   </component>
 </project>
